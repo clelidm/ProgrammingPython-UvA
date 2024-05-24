@@ -28,5 +28,5 @@ The course is based on the following books: 
 Exercises are also inspired from the course (in French) “Programming in C for physicists” by Franc ̧ois Naulin, and from the book A student’s guide to python for physical modeling by Jesse M. Kinder and Philip Nelson.
 
 ### Tools.
-We will work with **Python3** and assignments will be given in **Jupyter notebooks**. If preferred, several options allow to use Jupyter notebook online, without having to install anything, such as (https://colab.google/)[Google ColabLinks] or JupyterLite.
+We will work with **Python3** and assignments will be given in [**Jupyter notebooks**](https://jupyter.org/). If preferred, several options allow to use Jupyter notebook online, without having to install anything, such as [Google ColabLinks](https://colab.google/) or [JupyterLite](https://jupyter.org/try-jupyter/lab/).
 
