@@ -23,7 +23,7 @@ Additional material will be provided for these topics (will be useful for some o
 The course is based on the following books: 
   - Py1 and Py2: [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html), by Jake VanderPlas, freely available in its online version.
   - Py3 and Py4: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas, freely available in its online version.
-  - Py5: Statistical Mechanics: Algorithms and Computations, by Werner Krauth.
+  - Py5: [Statistical Mechanics: Algorithms and Computations](https://books.google.nl/books/about/Statistical_Mechanics_Algorithms_and_Com.html?hl=fr&id=_9i8_hgi5CkC&redir_esc=y), by Werner Krauth.
 
 Exercises are also inspired from the course (in French) “Programming in C for physicists” by Franc ̧ois Naulin, and from the book A student’s guide to python for physical modeling by Jesse M. Kinder and Philip Nelson.
 
