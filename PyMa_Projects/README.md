@@ -1,7 +1,4 @@
 ## Project list 2023
 
-Here's an image of a drag racer in action:
 
-![Drag Racing](Dragster.jpg)
-
-Move along.
+![List_Projects](https://github.com/clelidm/ProgrammingPython-UvA/blob/main/PyMa_Projects/Final-Project_List_Sept2023.png)
