@@ -4,7 +4,7 @@ This repository contains the Python part of the course "Programming in Mathemati
 ### Goal of the course
 This course is very short with only 1.5EC for the Python part of the course. The overall goal of the course is to get you sufficiently familiar with python, as well as, basic programming concepts in computational physics and data analysis, for you to become independent self-trained learners in python for computational physics.
 
-### Exam
+### Evaluation
 “Pass or Fail” based on submitted and reviewed assignments, and on the final project. 
 
 ### Plan of the course – Python part:
