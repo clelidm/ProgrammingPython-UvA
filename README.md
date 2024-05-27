@@ -9,7 +9,7 @@ This course is very short with only 1.5EC for the Python part of the course. The
 
 ### Plan of the course – Python part:
   - Py 1: Getting familiar with Python
-  - Py 2: Bases of programming in Python
+  - Py 2: Bases of programming in Python (data structures, loops, functions)
   - Py 3: NumPy arrays for efficient computing in Python
   - Py 4: Numerical methods for solving ordinary differential equations (ODE) 
   - Py 5: Introduction to stochastic simulation
